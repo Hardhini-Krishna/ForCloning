@@ -1,0 +1,5 @@
+hi
+this is cloning with ssh
+ssh is secure way by creating public and private keys . we pass public key in github server. when you want to have ssh we have passphrase.
+which we set using ssh-keygen -t -rsa -C hardinikrishna@gmail.com
+by this we generate public and private keys..
